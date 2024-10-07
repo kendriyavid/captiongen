@@ -68,4 +68,3 @@ jobs:
         with:
           app-name: 'Captioncuddler'
           slot-name: 'Production'
-          force-deployment: true  # Ensures the latest commit is deployed
