@@ -156,8 +156,5 @@ caption-cuddler/
 - VGG16 architecture and pre-trained weights
 - All contributors and users
 
-
-Project Link: [https://github.com/yourusername/caption-cuddler](https://github.com/yourusername/caption-cuddler)
-
 ---
 Made with ❤️ by [Harshdeep Singh]
